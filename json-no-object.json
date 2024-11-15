@@ -1,0 +1,31 @@
+[
+    {
+        "id": 717131,
+        "name": "TERMOVENTILATORE BIANCO/TORTORA2000W TZR15WG",
+        "description": "",
+        "price": 9.5,
+        "image": "https://www.casalinghierrebisrl.it/wp-content/uploads/2024/01/TERMZ028.jpg",
+        "url": "https://www.casalinghierrebisrl.it/prodotto/termoventilatore-bianco-tortora2000w-tzr15wg/",
+        "brand": "TERMOZETA",
+        "categories": [
+            1081
+        ],
+        "variant_skus": [
+            "TERMZ028"
+        ],
+        "variant_names": [
+            "TERMOVENTILATORE BIANCO/TORTORA2000W TZR15WG"
+        ],
+        "variant_eans": [
+            "8028153105320"
+        ],
+        "variant_stock": [
+            168
+        ],
+        "GROUP1": 179,
+        "GROUP2": 140,
+        "GROUP3": 100,
+        "GROUP4": 70,
+        "created_at": 1731444910
+    }
+]
