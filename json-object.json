@@ -1,0 +1,21 @@
+[
+    {
+        "id": 123,
+        "name": "Lightsaber",
+        "description": "Antique Rebel Lightsaber",
+        "price": 9.5,
+        "image": "https://galactic-empire-merch.com/images/a-r-lightsaber.jpg",
+        "url": "https://galactic-empire-merch.com/antique-rebel-lightsaber",
+        "brand": "Je'daii",
+        "categories": [987, 654],
+        "created_at": 1199145600,
+        "color_names": ["Green", "Red"],
+        "color_codes": ["#7CFC00", "#FF3131"],
+        "reviews_amount": 164,
+        "reviews_avg": 4.8,
+        "variant_skus": ["SW28"],
+        "variant_names": ["Antique Rebel Lightsaber XL"],
+        "variant_stock": [168],
+        "customer_group_prices": "{\"GROUP1\":100,\"GROUP2\":202,\"GROUP3\":309}"
+    }
+]
