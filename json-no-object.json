@@ -1,0 +1,19 @@
+[
+    {
+        "id": 717131,
+        "name": "Death Star Deluxe",
+        "description": "Death Star - Guaranteed idiot proof",
+        "price": 99999999999999.95,
+        "image": "https://galactic-empire-merch.com/images/death-star.jpg",
+        "url": "https://galactic-empire-merch.com/death-star",
+        "brand": "Imperial Inc.",
+        "categories": [345678],
+        "variant_skus": ["TERMZ028"],
+        "variant_stock": [168],
+        "GROUP1": 179,
+        "GROUP2": 140,
+        "GROUP3": 100,
+        "GROUP4": 70,
+        "created_at": 1731444910
+    }
+]
